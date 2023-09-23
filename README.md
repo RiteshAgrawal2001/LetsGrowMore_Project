@@ -11,3 +11,10 @@
 ![Screenshot (1478)](https://github.com/RiteshAgrawal2001/LetsGrowMore_Project/assets/89643268/9e8e0333-3140-4fe7-9871-1f258e71840c)
 
 ![Screenshot (1479)](https://github.com/RiteshAgrawal2001/LetsGrowMore_Project/assets/89643268/0715122e-0d7b-4da2-b5fe-42ae97ab117e)
+
+# TASK 2 TIC TAC TOE GAME PROJECT
+![Screenshot (1483)](https://github.com/RiteshAgrawal2001/LetsGrowMore_Project/assets/89643268/42d87642-f335-4582-a936-8429880f2a5f)
+
+![Screenshot (1484)](https://github.com/RiteshAgrawal2001/LetsGrowMore_Project/assets/89643268/d293c80a-8f5c-4c64-ba58-ae70f41cc460)
+
+
